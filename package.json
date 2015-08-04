@@ -1,0 +1,32 @@
+{
+  "name": "position-error",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Friendlier version of the PositionError from navigator.geolocation",
+  "license": "MIT",
+  "repository": "bendrucker/position-error",
+  "author": {
+    "email": "bvdrucker@gmail.com",
+    "name": "Ben Drucker",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "browser",
+    "error",
+    "geolocation",
+    "position"
+  ],
+  "devDependencies": {
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "create-error-class": "~2.0.1"
+  }
+}
