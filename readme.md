@@ -1,4 +1,4 @@
-# position-error [![Build Status](https://travis-ci.org/bendrucker/position-error.svg?branch=master)](https://travis-ci.org/bendrucker/position-error)
+# position-error [![Build Status](https://travis-ci.org/bendrucker/position-error.svg?branch=master)](https://travis-ci.org/bendrucker/position-error) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/position-error.svg)](https://greenkeeper.io/)
 
 > Friendlier version of the PositionError from navigator.geolocation
 
